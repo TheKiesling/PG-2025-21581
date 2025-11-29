@@ -160,7 +160,7 @@ training:
 
 ## Demo
 
-El video demostrativo se encuentra en [docs/demo_video.mp4](docs/demo_video.mp4)
+El video demostrativo se encuentra en [docs/demo_video.mp4](docs/demo.mp4)
 
 ## Documentación
 
